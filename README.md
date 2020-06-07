@@ -2,6 +2,9 @@
 
 Challenges from the root-me programming and security website
 
+PLEASE BE AWARE THAT YOU MAY FIND SOLUTIONS OF PROGRAMMING CHALLENGES FROM THE ROOT-ME WEBSITE.
+READER DISCRETION IS ADVISED.
+
 ## Table of contents
 #### [root-me](#root-me)
 #### [programming](#programming)
